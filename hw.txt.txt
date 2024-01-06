@@ -1,2 +1,2 @@
 hi!
-it's me ;)
+it's me learning Git ;)
